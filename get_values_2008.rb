@@ -13,3 +13,10 @@ File.open('values_2008.txt', 'w') do |f|
 		f.write(tteight + "\n") if !tteight.nil? && tteight != "2008"
 	end
 end
+
+year
+value
+year
+value
+year
+value

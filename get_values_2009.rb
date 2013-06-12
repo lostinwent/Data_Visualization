@@ -10,6 +10,9 @@ File.open('values_2009.txt', 'w') do |f|
 
 	ttnine_values.each do |ttnine|
 		ttnine = ttnine.text.strip
-		f.write(ttnine + "\n") if !ttnine.nil? && ttnine != "2009"
+		if ttnine == ""
+			f.write("N/A"+ "\n")
+		else f.write(ttnine + "\n") if !ttnine.nil? && ttnine != "2009"
+		end
 	end
 end
