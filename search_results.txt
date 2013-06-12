@@ -1,0 +1,426 @@
+Afghanistan
+6,315
+Albania
+3,007
+Algeria
+121,312
+American Samoa
+N/A
+Andorra
+517
+Angola
+26,655
+Antigua and Barbuda
+462
+Argentina
+174,718
+Armenia
+4,492
+Aruba
+2,296
+Australia
+400,194
+Austria
+62,313
+Azerbaijan
+49,075
+Bahamas, The
+2,585
+Bahrain
+24,221
+Bangladesh
+51,037
+Barbados
+1,573
+Belarus
+60,293
+Belgium
+103,593
+Belize
+414
+Benin
+4,855
+Bermuda
+466
+Bhutan
+422
+Bolivia
+14,488
+Bosnia and Herzegovina
+30,099
+Botswana
+4,430
+Brazil
+367,147
+Brunei Darussalam
+9,281
+Bulgaria
+42,805
+Burkina Faso
+1,668
+Burundi
+191
+Cambodia
+4,613
+Cameroon
+6,674
+Canada
+513,937
+Cape Verde
+315
+Cayman Islands
+513
+Central African Republic
+235
+Chad
+414
+Chile
+66,732
+China
+7,687,114
+Colombia
+71,231
+Comoros
+125
+Congo, Dem. Rep.
+2,695
+Congo, Rep.
+1,944
+Costa Rica
+8,317
+Cote d'Ivoire
+6,597
+Croatia
+21,536
+Cuba
+31,617
+Curacao
+N/A
+Cyprus
+8,199
+Czech Republic
+108,121
+Denmark
+45,698
+Djibouti
+532
+Dominica
+128
+Dominican Republic
+20,334
+Ecuador
+30,102
+Egypt, Arab Rep.
+216,137
+El Salvador
+6,300
+Equatorial Guinea
+4,815
+Eritrea
+513
+Estonia
+15,951
+Ethiopia
+7,888
+Faeroe Islands
+708
+Fiji
+847
+Finland
+53,568
+France
+363,356
+French Polynesia
+895
+Gabon
+1,624
+Gambia, The
+436
+Georgia
+5,845
+Germany
+734,599
+Ghana
+7,444
+Greece
+94,917
+Greenland
+576
+Grenada
+246
+Guam
+N/A
+Guatemala
+15,203
+Guinea
+1,228
+Guinea-Bissau
+293
+Guyana
+1,555
+Haiti
+2,270
+Honduras
+7,704
+Hong Kong SAR, China
+36,993
+Hungary
+48,676
+Iceland
+2,028
+India
+1,979,425
+Indonesia
+451,782
+Iran, Islamic Rep.
+602,055
+Iraq
+109,038
+Ireland
+41,642
+Isle of Man
+N/A
+Israel
+67,216
+Italy
+400,836
+Jamaica
+8,573
+Japan
+1,101,134
+Jordan
+22,548
+Kazakhstan
+225,803
+Kenya
+12,350
+Kiribati
+51
+Korea, Dem. Rep.
+75,104
+Korea, Rep.
+509,376
+Kosovo
+N/A
+Kuwait
+80,205
+Kyrgyz Republic
+6,722
+Lao PDR
+1,811
+Latvia
+6,652
+Lebanon
+20,968
+Lesotho
+N/A
+Liberia
+524
+Libya
+62,874
+Liechtenstein
+N/A
+Lithuania
+12,838
+Luxembourg
+10,143
+Macao SAR, China
+1,467
+Macedonia, FYR
+11,342
+Madagascar
+1,822
+Malawi
+1,060
+Malaysia
+198,348
+Maldives
+1,027
+Mali
+612
+Malta
+2,497
+Marshall Islands
+103
+Mauritania
+2,076
+Mauritius
+3,825
+Mexico
+446,237
+Micronesia, Fed. Sts.
+62
+Moldova
+4,547
+Monaco
+N/A
+Mongolia
+14,503
+Montenegro
+3,051
+Morocco
+48,815
+Mozambique
+2,600
+Myanmar
+11,093
+Namibia
+3,586
+Nepal
+3,517
+Netherlands
+169,650
+New Caledonia
+2,970
+New Zealand
+32,064
+Nicaragua
+4,463
+Niger
+1,159
+Nigeria
+70,234
+Northern Mariana Islands
+N/A
+Norway
+47,077
+Oman
+41,144
+Pakistan
+161,220
+Palau
+209
+Panama
+7,844
+Papua New Guinea
+3,480
+Paraguay
+4,518
+Peru
+47,356
+Philippines
+68,551
+Poland
+298,905
+Portugal
+57,400
+Puerto Rico
+N/A
+Qatar
+70,344
+Romania
+79,486
+Russian Federation
+1,574,386
+Rwanda
+726
+Samoa
+161
+San Marino
+N/A
+Sao Tome and Principe
+128
+Saudi Arabia
+432,772
+Senegal
+4,576
+Serbia
+46,252
+Seychelles
+737
+Sierra Leone
+1,415
+Singapore
+31,896
+Sint Maarten (Dutch part)
+N/A
+Slovak Republic
+33,890
+Slovenia
+15,291
+Solomon Islands
+198
+Somalia
+594
+South Africa
+499,016
+South Sudan
+N/A
+Spain
+288,230
+Sri Lanka
+12,658
+St. Kitts and Nevis
+260
+St. Lucia
+385
+St. Martin (French part)
+N/A
+St. Vincent and the Grenadines
+202
+Sudan
+14,338
+Suriname
+2,472
+Swaziland
+1,023
+Sweden
+43,744
+Switzerland
+41,598
+Syrian Arab Republic
+65,313
+Tajikistan
+2,835
+Tanzania
+6,960
+Thailand
+271,721
+Timor-Leste
+183
+Togo
+1,485
+Tonga
+176
+Trinidad and Tobago
+47,781
+Tunisia
+25,156
+Turkey
+277,845
+Turkmenistan
+48,162
+Turks and Caicos Islands
+161
+Tuvalu
+N/A
+Uganda
+3,480
+Ukraine
+272,176
+United Arab Emirates
+156,823
+United Kingdom
+474,579
+United States
+5,299,563
+Uruguay
+7,891
+Uzbekistan
+116,508
+Vanuatu
+117
+Venezuela, RB
+184,795
+Vietnam
+142,258
+Virgin Islands (U.S.)
+N/A
+West Bank and Gaza
+2,164
+Yemen, Rep.
+23,997
+Zambia
+1,984
+Zimbabwe
+8,914
