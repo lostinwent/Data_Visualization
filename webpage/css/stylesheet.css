@@ -1,0 +1,136 @@
+.logo, .russia, .india, .china, .us, .safrica, .germany, .iran, .canada, .korea, .uk, .vchina, .vus, .vindia, .vrussia, .vgermany, .vcanada, .viran, .vsafrica, .vkorea, .vuk, .weight{
+	background: url(sprites.png) no-repeat;
+}
+
+.logo{
+	background-position: -229px 0;
+	width: 421px;
+	height: 180px;
+}
+
+.russia{
+	background-position: 0 0;
+	width: 109px;
+	height: 109px;
+}
+
+.india{
+	background-position: 0 -108px ;
+	width: 109px;
+	height: 109px;
+}
+
+.china{
+	background-position: 0 -215px ;
+	width: 109px;
+	height: 109px;
+}
+
+.us{
+	background-position: 0 -319px ;
+	width: 110px;
+	height: 111px;
+}
+
+.safrica{
+	background-position: -5px -431px ;
+	width: 99px;
+	height: 99px;
+}
+
+.germany{
+	background-position: -113px 0;
+	width: 109px;
+	height: 109px;
+}
+
+.iran{
+	background-position: -119px -113px ;
+	width: 99px;
+	height: 99px;
+}
+
+.canada{
+	background-position: -118px -221px ;
+	width: 99px;
+	height: 100px;
+}
+
+.korea{
+	background-position: -118px -328px ;
+	width: 99px;
+	height: 99px;
+}
+
+.uk{
+	background-position: -119px -434px ;
+	width: 99px;
+	height: 99px;
+}
+
+.vchina{
+	background-position: -5px -541px ;
+	width: 877px;
+	height: 49px;
+}
+
+.vus{
+	background-position: -5px -598px ;
+	width: 766px;
+	height: 49px;
+}
+
+.vindia{
+	background-position: -228px -245px ;
+	width: 389px;
+	height: 48px;
+}
+
+.vrussia{
+	background-position: -225px -407px ;
+	width: 331px;
+	height: 49px;
+}
+
+.vgermany{
+	background-position: -228px -299px ;
+	width: 194px;
+	height: 49px;
+}
+
+.vcanada{
+	background-position: -225px -465px ;
+	width: 151px;
+	height: 49px;
+}
+
+.viran{
+	background-position: -426px -300px ;
+	width: 179px;
+	height: 49px;
+}
+
+.vsafrica{
+	background-position: -227px -352px ;
+	width: 129px;
+	height: 49px;
+}
+
+.vkorea{
+	background-position: -380px -466px ;
+	width: 136px;
+	height: 49px;
+}
+
+.vuk{
+	background-position: -366px -354px ;
+	width: 122px;
+	height: 49px;
+}
+
+.weight{
+	background-position: -356px -88px ;
+	width: 588px;
+	height: 450px;
+}
+
