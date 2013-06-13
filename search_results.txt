@@ -1,426 +1,426 @@
-Swaziland
-1,023
-Maldives
-1,027
-Malawi
-1,060
-Japan
-1,101,134
-Niger
-1,159
-Guinea
-1,228
-Sierra Leone
-1,415
-Macao SAR, China
-1,467
-Togo
-1,485
-Guyana
-1,555
-Barbados
-1,573
-Russian Federation
-1,574,386
-Gabon
-1,624
-Burkina Faso
-1,668
-Lao PDR
-1,811
-Madagascar
-1,822
-Congo, Rep.
-1,944
-India
-1,979,425
-Zambia
-1,984
 Luxembourg
-10,143
+10143
+Swaziland
+1023
+Maldives
+1027
 Marshall Islands
 103
 Belgium
-103,593
+103593
+Malawi
+1060
 Czech Republic
-108,121
+108121
 Iraq
-109,038
+109038
+Japan
+1101134
 Myanmar
-11,093
+11093
 Macedonia, FYR
-11,342
+11342
+Niger
+1159
 Uzbekistan
-116,508
+116508
 Vanuatu
 117
-Kenya
-12,350
-Sri Lanka
-12,658
-Lithuania
-12,838
 Algeria
-121,312
+121312
+Guinea
+1228
+Kenya
+12350
 Comoros
 125
+Sri Lanka
+12658
 Sao Tome and Principe
 128
 Dominica
 128
-Sudan
-14,338
-Bolivia
-14,488
-Mongolia
-14,503
+Lithuania
+12838
+Sierra Leone
+1415
 Vietnam
-142,258
+142258
+Sudan
+14338
+Bolivia
+14488
+Mongolia
+14503
+Macao SAR, China
+1467
+Togo
+1485
 Guatemala
-15,203
+15203
 Slovenia
-15,291
-Estonia
-15,951
+15291
+Guyana
+1555
 United Arab Emirates
-156,823
+156823
+Barbados
+1573
+Russian Federation
+1574386
+Estonia
+15951
 Samoa
 161
 Turks and Caicos Islands
 161
 Pakistan
-161,220
+161220
+Gabon
+1624
+Burkina Faso
+1668
 Netherlands
-169,650
+169650
 Argentina
-174,718
+174718
 Tonga
 176
+Lao PDR
+1811
+Madagascar
+1822
 Timor-Leste
 183
 Venezuela, RB
-184,795
+184795
 Burundi
 191
+Congo, Rep.
+1944
+India
+1979425
 Solomon Islands
 198
 Malaysia
-198,348
-Iceland
-2,028
-Mauritania
-2,076
-West Bank and Gaza
-2,164
-Haiti
-2,270
-Aruba
-2,296
-Suriname
-2,472
-Malta
-2,497
-Bahamas, The
-2,585
-Mozambique
-2,600
-Congo, Dem. Rep.
-2,695
-Tajikistan
-2,835
-New Caledonia
-2,970
-Dominican Republic
-20,334
-Lebanon
-20,968
+198348
+Zambia
+1984
 St. Vincent and the Grenadines
 202
+Iceland
+2028
+Dominican Republic
+20334
+Mauritania
+2076
 Palau
 209
+Lebanon
+20968
 Croatia
-21,536
+21536
 Egypt, Arab Rep.
-216,137
+216137
+West Bank and Gaza
+2164
 Jordan
-22,548
+22548
 Kazakhstan
-225,803
-Yemen, Rep.
-23,997
+225803
+Haiti
+2270
+Aruba
+2296
 Central African Republic
 235
+Yemen, Rep.
+23997
 Bahrain
-24,221
+24221
 Grenada
 246
+Suriname
+2472
+Malta
+2497
 Tunisia
-25,156
-Angola
-26,655
+25156
+Bahamas, The
+2585
 St. Kitts and Nevis
 260
+Mozambique
+2600
+Angola
+26655
+Congo, Dem. Rep.
+2695
 Thailand
-271,721
+271721
 Ukraine
-272,176
+272176
 Turkey
-277,845
+277845
+Tajikistan
+2835
 Spain
-288,230
+288230
 Guinea-Bissau
 293
+New Caledonia
+2970
 Poland
-298,905
+298905
 Albania
-3,007
-Montenegro
-3,051
-Papua New Guinea
-3,480
-Uganda
-3,480
-Nepal
-3,517
-Namibia
-3,586
-Mauritius
-3,825
+3007
 Bosnia and Herzegovina
-30,099
+30099
 Ecuador
-30,102
-Cuba
-31,617
-Singapore
-31,896
+30102
+Montenegro
+3051
 Cape Verde
 315
+Cuba
+31617
+Singapore
+31896
 New Zealand
-32,064
+32064
 Slovak Republic
-33,890
-Hong Kong SAR, China
-36,993
+33890
+Uganda
+3480
+Papua New Guinea
+3480
+Nepal
+3517
+Namibia
+3586
 France
-363,356
+363356
 Brazil
-367,147
+367147
+Hong Kong SAR, China
+36993
+Mauritius
+3825
 St. Lucia
 385
-Botswana
-4,430
-Nicaragua
-4,463
-Armenia
-4,492
-Paraguay
-4,518
-Moldova
-4,547
-Senegal
-4,576
-Cambodia
-4,613
-Equatorial Guinea
-4,815
-Benin
-4,855
 Australia
-400,194
+400194
 Italy
-400,836
+400836
 Oman
-41,144
-Switzerland
-41,598
-Ireland
-41,642
-Belize
-414
+41144
 Chad
 414
-Bulgaria
-42,805
+Belize
+414
+Switzerland
+41598
+Ireland
+41642
 Bhutan
 422
-Sweden
-43,744
+Bulgaria
+42805
 Saudi Arabia
-432,772
+432772
 Gambia, The
 436
+Sweden
+43744
+Botswana
+4430
 Mexico
-446,237
-Denmark
-45,698
+446237
+Nicaragua
+4463
+Armenia
+4492
 Indonesia
-451,782
-Serbia
-46,252
+451782
+Paraguay
+4518
+Moldova
+4547
+Denmark
+45698
+Senegal
+4576
+Cambodia
+4613
 Antigua and Barbuda
 462
+Serbia
+46252
 Bermuda
 466
 Norway
-47,077
+47077
 Peru
-47,356
-Trinidad and Tobago
-47,781
+47356
 United Kingdom
-474,579
+474579
+Trinidad and Tobago
+47781
+Equatorial Guinea
+4815
 Turkmenistan
-48,162
+48162
+Benin
+4855
 Hungary
-48,676
+48676
 Morocco
-48,815
+48815
 Azerbaijan
-49,075
+49075
 South Africa
-499,016
-United States
-5,299,563
-Georgia
-5,845
+499016
 Korea, Rep.
-509,376
+509376
 Kiribati
 51
 Bangladesh
-51,037
+51037
 Eritrea
 513
 Cayman Islands
 513
 Canada
-513,937
+513937
 Andorra
 517
 Liberia
 524
-Finland
-53,568
+United States
+5299563
 Djibouti
 532
+Finland
+53568
 Portugal
-57,400
+57400
 Greenland
 576
+Georgia
+5845
 Somalia
 594
-El Salvador
-6,300
-Afghanistan
-6,315
-Cote d'Ivoire
-6,597
-Latvia
-6,652
-Cameroon
-6,674
-Kyrgyz Republic
-6,722
-Tanzania
-6,960
-Belarus
-60,293
 Iran, Islamic Rep.
-602,055
+602055
+Belarus
+60293
 Mali
 612
 Micronesia, Fed. Sts.
 62
 Austria
-62,313
+62313
 Libya
-62,874
+62874
+El Salvador
+6300
+Afghanistan
+6315
 Syrian Arab Republic
-65,313
+65313
+Cote d'Ivoire
+6597
+Latvia
+6652
 Chile
-66,732
+66732
+Cameroon
+6674
 Israel
-67,216
+67216
+Kyrgyz Republic
+6722
 Philippines
-68,551
-Ghana
-7,444
-China
-7,687,114
-Honduras
-7,704
-Panama
-7,844
-Ethiopia
-7,888
-Uruguay
-7,891
+68551
+Tanzania
+6960
 Nigeria
-70,234
+70234
 Qatar
-70,344
+70344
 Faeroe Islands
 708
 Colombia
-71,231
+71231
 Rwanda
 726
 Germany
-734,599
+734599
 Seychelles
 737
+Ghana
+7444
 Korea, Dem. Rep.
-75,104
+75104
+China
+7687114
+Honduras
+7704
+Panama
+7844
+Ethiopia
+7888
+Uruguay
+7891
 Romania
-79,486
-Cyprus
-8,199
-Costa Rica
-8,317
-Jamaica
-8,573
-Zimbabwe
-8,914
+79486
 Kuwait
-80,205
+80205
+Cyprus
+8199
+Costa Rica
+8317
 Fiji
 847
+Jamaica
+8573
+Zimbabwe
+8914
 French Polynesia
 895
 Brunei Darussalam
-9,281
+9281
 Greece
-94,917
-Lesotho
-N/A
-St. Martin (French part)
-N/A
-Curacao
-N/A
-Tuvalu
-N/A
-Kosovo
-N/A
-South Sudan
-N/A
-Liechtenstein
-N/A
+94917
 Monaco
-N/A
-Sint Maarten (Dutch part)
 N/A
 Northern Mariana Islands
 N/A
 Guam
 N/A
-Virgin Islands (U.S.)
+Isle of Man
 N/A
-Puerto Rico
+Curacao
 N/A
 San Marino
 N/A
+Tuvalu
+N/A
+Liechtenstein
+N/A
+Puerto Rico
+N/A
+Kosovo
+N/A
+Sint Maarten (Dutch part)
+N/A
+Virgin Islands (U.S.)
+N/A
+Lesotho
+N/A
+South Sudan
+N/A
 American Samoa
 N/A
-Isle of Man
+St. Martin (French part)
 N/A

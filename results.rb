@@ -12,7 +12,7 @@ countries.each do |country|
 	i += 1
 end
 
-results_hash = results_hash.sort_by {|k, v| v}
+results_hash = results_hash.sort_by{|k, v| v}
 
 File.open('search_results.txt', 'w') do |f|
 	results_hash.each do |k, v|
