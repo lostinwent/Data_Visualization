@@ -4,8 +4,22 @@ body{
 
 #container{
 	background-color: #DFD9D0;
-	width: 960px;
+	width: 1024px;
+	min-height: 1300px;
 	margin: 0 auto;
+}
+
+.flag{
+	float: left;
+	width: 100px;
+	margin-left: -25px;
+	max-width: 
+}
+
+.bars{
+	float: left;
+	margin-left: 10px;
+
 }
 
 /*.logo, .russia, .india, .china, .us, .safrica, .germany, .iran, .canada, .korea, .uk, .vchina, .vus, .vindia, .vrussia, .vgermany, .vcanada, .viran, .vsafrica, .vkorea, .vuk, .weight{
@@ -120,69 +134,102 @@ ul{
 	margin-top: 10px;
 }
 
-.vchina{
+#vchina{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -5px -541px ;
 	width: 877px;
 	height: 49px;
+	margin-top: 44px;
 }
 
-.vus{
+#vus{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -5px -598px ;
 	width: 766px;
 	height: 49px;
+	margin-top: 64px;
 }
 
-.vindia{
+#vindia{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -228px -245px ;
 	width: 389px;
 	height: 48px;
+	margin-top: 64px;
 }
 
-.vrussia{
+#vrussia{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -225px -407px ;
 	width: 331px;
 	height: 49px;
+	margin-top: 57px;
 }
 
-.vgermany{
+#vgermany{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -228px -299px ;
 	width: 194px;
 	height: 49px;
+	margin-top: 64px;
 }
 
-.vcanada{
-	background-position: -225px -465px ;
-	width: 151px;
-	height: 49px;
-}
-
-.viran{
+#viran{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -426px -300px ;
 	width: 179px;
 	height: 49px;
+	margin-top: 57px;
 }
 
-.vsafrica{
-	background-position: -227px -352px ;
-	width: 129px;
+#vcanada{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: -225px -465px ;
+	width: 151px;
 	height: 49px;
+	margin-top: 60px;
 }
 
-.vkorea{
+#vkorea{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -380px -466px ;
 	width: 136px;
 	height: 49px;
+	margin-top: 64px;
 }
 
-.vuk{
+#vsafrica{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: -227px -352px ;
+	width: 129px;
+	height: 49px;
+	margin-top: 55px;
+}
+
+#vuk{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -366px -354px ;
 	width: 122px;
 	height: 49px;
+	margin-top: 61px;
 }
 
-.weight{
+/*#weight{	
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -356px -88px ;
 	width: 588px;
 	height: 450px;
-}
+	position: absolute;*/
 
+}
