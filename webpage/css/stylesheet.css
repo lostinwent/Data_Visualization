@@ -30,22 +30,6 @@ ul{
 	margin-right: auto;
 }
 
-#russia{
-	text-indent: -9999999px;
-	background-image:url("../images/sprites.png");
-	background-position: 0px 0px;
-	width: 109px;
-	height: 109px;
-}
-
-#india{
-	text-indent: -9999999px;
-	background-image:url("../images/sprites.png");
-	background-position: 0px -108px ;
-	width: 109px;
-	height: 109px;
-}
-
 #china{
 	text-indent: -9999999px;
 	background-image:url("../images/sprites.png");
@@ -62,14 +46,20 @@ ul{
 	height: 111px;
 }
 
-#safrica{
+#india{
 	text-indent: -9999999px;
 	background-image:url("../images/sprites.png");
-	background-position: -5px -431px ;
-	width: 99px;
-	height: 99px;
-	margin-left: 5px;
-	margin-top: 10px;
+	background-position: 0px -108px ;
+	width: 109px;
+	height: 109px;
+}
+
+#russia{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: 0px 0px;
+	width: 109px;
+	height: 109px;
 }
 
 #germany{
@@ -104,6 +94,16 @@ ul{
 	text-indent: -9999999px;
 	background-image:url("../images/sprites.png");
 	background-position: -118px -328px ;
+	width: 99px;
+	height: 99px;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+#safrica{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: -5px -431px ;
 	width: 99px;
 	height: 99px;
 	margin-left: 5px;
