@@ -1,11 +1,33 @@
-.logo, .russia, .india, .china, .us, .safrica, .germany, .iran, .canada, .korea, .uk, .vchina, .vus, .vindia, .vrussia, .vgermany, .vcanada, .viran, .vsafrica, .vkorea, .vuk, .weight{
-	background: url(sprites.png) no-repeat;
+body{
+	background-color: #262E3F;
+}
+
+#container{
+	background-color: #DFD9D0;
+	width: 960px;
+	margin: 0 auto;
+}
+
+/*.logo, .russia, .india, .china, .us, .safrica, .germany, .iran, .canada, .korea, .uk, .vchina, .vus, .vindia, .vrussia, .vgermany, .vcanada, .viran, .vsafrica, .vkorea, .vuk, .weight{
+	background: url(images/sprites.png) no-repeat;
+}*/
+
+ul{
+	list-style-type: none;
 }
 
 .logo{
-	background-position: -229px 0;
+	/*background-position: -229px 0;*/
+	text-indent: -9999999px;
 	width: 421px;
 	height: 180px;
+/*	display:block;
+	text-decoration:none;*/
+	background-image:url("../images/sprites.png"); 
+	background-position: -229px 0px;
+	margin-top: -16px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .russia{
