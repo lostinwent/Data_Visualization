@@ -16,7 +16,7 @@ ul{
 	list-style-type: none;
 }
 
-.logo{
+#logo{
 	/*background-position: -229px 0;*/
 	text-indent: -9999999px;
 	width: 421px;
@@ -30,64 +30,94 @@ ul{
 	margin-right: auto;
 }
 
-.russia{
-	background-position: 0 0;
+#russia{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: 0px 0px;
 	width: 109px;
 	height: 109px;
 }
 
-.india{
-	background-position: 0 -108px ;
+#india{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: 0px -108px ;
 	width: 109px;
 	height: 109px;
 }
 
-.china{
-	background-position: 0 -215px ;
+#china{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: 0px -215px ;
 	width: 109px;
 	height: 109px;
 }
 
-.us{
-	background-position: 0 -319px ;
+#us{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
+	background-position: 0px -319px ;
 	width: 110px;
 	height: 111px;
 }
 
-.safrica{
+#safrica{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -5px -431px ;
 	width: 99px;
 	height: 99px;
+	margin-left: 5px;
+	margin-top: 10px;
 }
 
-.germany{
+#germany{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -113px 0;
 	width: 109px;
 	height: 109px;
 }
 
-.iran{
+#iran{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -119px -113px ;
 	width: 99px;
 	height: 99px;
+	margin-left: 5px;
+	margin-top: 4px;
 }
 
-.canada{
+#canada{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -118px -221px ;
 	width: 99px;
 	height: 100px;
+	margin-left: 5px;
+	margin-top: 10px;
 }
 
-.korea{
+#korea{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -118px -328px ;
 	width: 99px;
 	height: 99px;
+	margin-left: 5px;
+	margin-top: 10px;
 }
 
-.uk{
+#uk{
+	text-indent: -9999999px;
+	background-image:url("../images/sprites.png");
 	background-position: -119px -434px ;
 	width: 99px;
 	height: 99px;
+	margin-left: 5px;
+	margin-top: 10px;
 }
 
 .vchina{
