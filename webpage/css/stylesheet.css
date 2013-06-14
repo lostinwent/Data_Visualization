@@ -49,9 +49,23 @@ ul{
 	height: 109px;
 }
 
+#china:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -870px -7px ;
+	width: 109px;
+	height: 109px;
+}
+
 #us{
 	background-image:url("../images/sprites.png");
 	background-position: 0px -319px ;
+	width: 110px;
+	height: 111px;
+}
+
+#us:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -875px -130px ;
 	width: 110px;
 	height: 111px;
 }
@@ -63,6 +77,13 @@ ul{
 	height: 109px;
 }
 
+#india:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -875px -250px ;
+	width: 109px;
+	height: 109px;
+}
+
 #russia{
 	background-image:url("../images/sprites.png");
 	background-position: 0px 0px;
@@ -70,9 +91,23 @@ ul{
 	height: 109px;
 }
 
+#russia:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -876px -366px ;
+	width: 109px;
+	height: 109px;
+}
+
 #germany{
 	background-image:url("../images/sprites.png");
 	background-position: -113px 0;
+	width: 109px;
+	height: 109px;
+}
+
+#germany:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -879px -488px ;
 	width: 109px;
 	height: 109px;
 }
@@ -86,6 +121,13 @@ ul{
 	margin-top: 4px;
 }
 
+#iran:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -885px -605px ;
+	width: 99px;
+	height: 99px;
+}
+
 #canada{
 	background-image:url("../images/sprites.png");
 	background-position: -118px -221px ;
@@ -93,6 +135,13 @@ ul{
 	height: 100px;
 	margin-left: 5px;
 	margin-top: 10px;
+}
+
+#canada:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -885px -727px ;
+	width: 99px;
+	height: 100px;
 }
 
 #korea{
@@ -104,6 +153,13 @@ ul{
 	margin-top: 10px;
 }
 
+#korea:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -886px -856px ;
+	width: 99px;
+	height: 99px;
+}
+
 #safrica{
 	background-image:url("../images/sprites.png");
 	background-position: -5px -431px ;
@@ -111,6 +167,13 @@ ul{
 	height: 99px;
 	margin-left: 5px;
 	margin-top: 10px;
+}
+
+#safrica:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -761px -854px ;
+	width: 99px;
+	height: 99px;
 }
 
 #uk{
@@ -122,12 +185,26 @@ ul{
 	margin-top: 10px;
 }
 
+#uk:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -762px -728px ;
+	width: 99px;
+	height: 99px;
+}
+
 #vchina{
 	background-image:url("../images/sprites.png");
 	background-position: -5px -541px ;
 	width: 877px;
 	height: 49px;
 	margin-top: 44px;
+}
+
+#vchina:hover{
+	background-image:url("../images/sprites_hvchina.png");
+	background-position: -65px -27px ;
+	width: 877px;
+	height: 49px;
 }
 
 #vus{
@@ -138,12 +215,26 @@ ul{
 	margin-top: 64px;
 }
 
+#vus:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -12px -74px ;
+	width: 765px;
+	height: 49px;
+}
+
 #vindia{
 	background-image:url("../images/sprites.png");
 	background-position: -228px -245px ;
 	width: 389px;
 	height: 48px;
 	margin-top: 64px;
+}
+
+#vindia:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -13px -133px ;
+	width: 388px;
+	height: 49px;
 }
 
 #vrussia{
@@ -154,12 +245,26 @@ ul{
 	margin-top: 57px;
 }
 
+#vrussia:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -406px -134px ;
+	width: 330px;
+	height: 49px;
+}
+
 #vgermany{
 	background-image:url("../images/sprites.png");
 	background-position: -228px -299px ;
 	width: 194px;
 	height: 49px;
 	margin-top: 64px;
+}
+
+#vgermany:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -13px -190px ;
+	width: 193px;
+	height: 49px;	
 }
 
 #viran{
@@ -170,12 +275,26 @@ ul{
 	margin-top: 57px;
 }
 
+#viran:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -213px -191px ;
+	width: 178px;
+	height: 49px;
+}
+
 #vcanada{
 	background-image:url("../images/sprites.png");
 	background-position: -225px -465px ;
 	width: 151px;
 	height: 49px;
 	margin-top: 60px;
+}
+
+#vcanada:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -397px -191px ;
+	width: 150px;
+	height: 49px;
 }
 
 #vkorea{
@@ -186,12 +305,26 @@ ul{
 	margin-top: 64px;
 }
 
+#vkorea:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -553px -191px ;
+	width: 136px;
+	height: 49px;
+}
+
 #vsafrica{
 	background-image:url("../images/sprites.png");
 	background-position: -227px -352px ;
 	width: 129px;
 	height: 49px;
 	margin-top: 55px;
+}
+
+#vsafrica:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -12px -245px ;
+	width: 128px;
+	height: 49px;
 }
 
 #vuk{
@@ -202,12 +335,20 @@ ul{
 	margin-top: 61px;
 }
 
-/*#weight{	
-	text-indent: -9999999px;
-	background-image:url("../images/sprites.png");
-	background-position: -356px -88px ;
-	width: 588px;
-	height: 450px;
-	position: absolute;*/
+#vuk:hover{
+	background-image:url("../images/sprites_hover.png");
+	background-position: -155px -247px ;
+	width: 122px;
+	height: 49px;
+}
 
+
+#weight{	
+	background-image:url("../images/sprites_hover.png");
+	background-position: -49px -350px ;
+	width: 326px;
+	height: 448px;
+	position: fixed;
+	top: 500px;
+	left: 750px;
 }
